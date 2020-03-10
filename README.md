@@ -4,6 +4,7 @@ What script doing:
 
  - script create groups, projects and user in gitlab
  - create deploy.sh script
+ 
 Execute bash `repository.sh` on remote host, script grab files from list `repository.list` and commit & push to gitlab project
 
 ### Description of hosts file:
