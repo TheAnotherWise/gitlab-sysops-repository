@@ -20,6 +20,7 @@ HOSTS_FILE = """
 10.100.100.103\telastic\tpdc\tnode4\tElasticsearch\telasticsearch\tProduction\tproduction
 10.100.100.104\telastic\tpdc\tnode5\tElasticsearch\telasticsearch\tProduction\tproduction
 10.100.100.105\telastic\tpdc\tnode6\tElasticsearch\telasticsearch\tProduction\tproduction
+
 10.100.100.100\telastic\tpdc\tnode1\tElasticsearch\telasticsearch\tDisaster\tdisaster
 10.100.100.101\telastic\tpdc\tnode2\tElasticsearch\telasticsearch\tDisaster\tdisaster
 10.100.100.102\telastic\tpdc\tnode3\tElasticsearch\telasticsearch\tDisaster\tdisaster
